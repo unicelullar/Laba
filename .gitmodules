@@ -1,3 +1,6 @@
 [submodule "submodule_dir"]
 	path = submodule_dir
 	url = https://github.com/unicelullar/Laba
+[submodule "subm"]
+	path = subm
+	url = https://github.com/unicelullar/sub
